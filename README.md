@@ -4,17 +4,11 @@ The Student Grade Management System is a comprehensive software solution designe
 
 NOTE: We will be implementing using structs!
 
-GENERAL FUNCTIONS:
-- User input function that validates the correct input
-- Add task/grades
-- Removing grades/removing a task
-- View grades for students/viewing your to-do list
-- Search for a student/assignment/task
-
-ADVANCED FUNCTIONS:
-(FOR STUDENTS WHO WANT TO TRY ADVANCED FUNCTIONS OR IF YOUR CS-2 AND ABOVE)
-- Making a login page with a user id and password (password validation)
-- Generate a graph to show all the data
+# Pseudocode
+- Get studentID using getUserInput(“Enter Student ID: “)
+- Get task using getUserInput(“Enter Assignment Name: “)
+- Get grade using getUserInput(“Enter Grade: “)
+- Add the task and grade to the student’s record
 
 Make sure to write comments when you are implementing the code!!
 
